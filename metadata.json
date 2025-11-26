@@ -1,0 +1,5 @@
+{
+  "name": "Ping Master Pro (مقياس البينغ)",
+  "description": "An Android-styled web application to measure network latency (Ping), Jitter, and Packet Loss with AI-powered network diagnostics.",
+  "requestFramePermissions": []
+}
